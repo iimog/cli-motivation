@@ -48,6 +48,8 @@ create_folder_structure.sh -o data -n 5 Alice Bob Charly
 create_folder_structure.sh -o bigdata -n 100 Alice Bob Charly
 ```
 
+Attention: For large `-n` the actual number of files might be less due to collissions in either `$RANDOM` or the 4-digit hash.
+
 # Possible Solutions
 There are obviously many ways to solve the challenge with the command line.
 An exemplary solution using the Alice, Bob, Charly example from above is:
