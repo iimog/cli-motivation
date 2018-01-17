@@ -74,5 +74,5 @@ So concepts that need to be tought in the lesson are:
  - help (`man`, `-h`, `--help` to learn about `-q` and `-c` options)
 
 # License
-The [bavaria_ipsum.txt](bavaria_ipsum.txt) file is available under [CC-BY-SA]http://creativecommons.org/licenses/by-sa/3.0/deed.deu(http://creativecommons.org/licenses/by-sa/3.0/deed.de) from [Michael Bundscherer (aurum:media)](http://bavaria-ipsum.de/impressum.html).
+The [bavaria_ipsum.txt](bavaria_ipsum.txt) file is available under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.de) from [Michael Bundscherer (aurum:media)](http://bavaria-ipsum.de/impressum.html).
 Other content of this repository is available under [CC-BY](https://creativecommons.org/licenses/by/4.0/), source code under [MIT](https://opensource.org/licenses/MIT).
