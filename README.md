@@ -1,4 +1,4 @@
-# Motivate CLI
+# CLI Motivation
 This repository is meant as a simple example to illustrate advantages of command line usage over graphical interfaces in some cases.
 It is meant for complete CLI novices who need motivation to learn the *new* interface.
 The example is designed for a course with biologists but should be easily adjustable to other audiences.
