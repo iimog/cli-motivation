@@ -34,6 +34,9 @@ Split the files in the `data` folder into sub-directories for each person.
 ## Task 2
 Give the number of `SUCCESS` and `FAIL` per person.
 
+## Task 3
+Open a large .txt file in Word, LibreOffice or similiar and write the number of words and lines in a new file. Compare results with ` wc -l foo.txt > wordcount.txt `
+
 # The Generator Script
 In order to create suitable data structures there is a script called `create_folder_structure.sh`.
 This script is not polished but usable.
