@@ -5,7 +5,7 @@ OPTIND=1         # Reset in case getopts has been used previously in the shell.
 
 # Initialize our own variables:
 outdir="data"
-n=100
+n=10
 
 while getopts "h?n:o:" opt; do
     case "$opt" in
