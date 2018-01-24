@@ -31,6 +31,7 @@ do
 	do
 		hash=$(echo $RANDOM | md5sum | head -c 4)
 		touch ${outdir}/${hash}_${name}.csv
+		# Ludwig was here.
 		touch ${outdir}/${hash}_${name}.png
 		shuf bavaria_ipsum.txt | head -n 15 >${outdir}/${hash}_${name}.txt
 		if [[ $RANDOM < $RANDOM ]]; then echo SUCCESS; else echo FAIL; fi >>${outdir}/${hash}_${name}.txt
